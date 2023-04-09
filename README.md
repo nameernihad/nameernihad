@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**nameernihad/nameernihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am MERN Stack  developer
+![I am MERN Stack  developer](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
 
-Here are some ideas to get you started:
+Hi there, I'm Nameer Nihad - a skilled MERN stack developer with a passion for all things web development. With extensive experience in building modern web applications, I'm always excited to take on new challenges and explore innovative technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: MongoDB/Express/ REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working Brototype Calicut. 
+
+
+
+
