@@ -13,8 +13,6 @@ Hello! I'm a dedicated and enthusiastic web developer with a strong passion for 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nameernihad&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nameernihad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nameernihad&limit=5&theme=dark&combine_all_yearly_contributions=true)
